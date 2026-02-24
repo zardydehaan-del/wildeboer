@@ -740,6 +740,11 @@ ul li {
         grid-template-columns: 1fr;
     }
 
+    .hero {
+        background-attachment: scroll;
+        min-height: 500px;
+    }
+
     .hero-title {
         font-size: 3rem;
     }
